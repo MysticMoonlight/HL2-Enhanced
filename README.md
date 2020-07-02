@@ -54,6 +54,7 @@ Black Mesa Footstep Sounds by punmeister - https://gamebanana.com/sounds/27822
 
 Alternate Combine Footsteps by CombineMesa - https://gamebanana.com/sounds/41226
 
+City17 Overwatch Cityvoice Alarms by SleepyNotDead - https://gamebanana.com/sounds/45408
 
 **Skins/Texture Mods**
 
@@ -92,6 +93,19 @@ MMod universal custom folder support by mbramblet - https://gamebanana.com/gamef
 Aperture Reshade for Half-Life 2 by kaamalauppias - https://www.moddb.com/mods/aperture-reshade-for-half-life-2
 
 MMod Aim Down Sight 1.12 by ZippyS2 - https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/mmod-aim-down-sight-112-by-zippys2
+
+Subtitles for Combine Overwatch by Maestra_Fenix - https://gamebanana.com/gamefiles/9697
+
+No HEV volume lowering by mbramblet - https://gamebanana.com/gamefiles/9464
+
+
+**Map Test/Replacements**
+
+Intro Test Chamber Replacement by Wood_y - https://gamebanana.com/maps/208488
+
+Black Mesa Anomalous Materials replacement by Wood_y - https://gamebanana.com/maps/208466
+
+Mod Testing Map by mooselag - https://gamebanana.com/maps/199590
 
 
 **MMod**
