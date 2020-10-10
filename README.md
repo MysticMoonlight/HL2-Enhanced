@@ -44,7 +44,7 @@ New Combine Deaths & On, off sounds by Navaro - https://gamebanana.com/sounds/21
 
 A lot of New Zombine And Edited Sounds by X RaY - https://gamebanana.com/sounds/27200
 
-Better sounds for all headcrabs by Strelok - https://gamebanana.com/sounds/17197
+Better sounds for all headcrabs by Strelok - http://files.gamebanana.com/sounds/hl2_3.rar (Probably old version, since author removed it expect some bugs.)
 
 HL2 | Improved HeadcrabCanister Sounds by X RaY - https://gamebanana.com/sounds/27458
 
