@@ -12,7 +12,7 @@ We recommended using MMod since this modpack's purpose is to be used with MMod.
 ## Credits ##
 **Sound Mods**
 
-Half Life 2 HD Remastered texture pack by johnyonghwang (Sound pack) - https://www.moddb.com/mods/half-life-2-hd-remastered-texture-pack/downloads/v13-possibly-final-version
+Half Life 2 HD Remastered texture pack by johnyonghwang (Sound pack only) - https://www.moddb.com/mods/half-life-2-hd-remastered-texture-pack/downloads/v13-possibly-final-version
 
 High quality out of breath by Temmie - https://gamebanana.com/sounds/46242
 
@@ -58,41 +58,20 @@ City17 Overwatch Cityvoice Alarms by SleepyNotDead - https://gamebanana.com/soun
 
 **Skins/Texture Mods**
 
-Half-Life 2: Episode One 4X AI Textures by Volkolak - https://gamebanana.com/textures/5794
+Half-Life 2: Episode One 4X AI Textures by Volkolak - https://gamebanana.com/textures/5794 (Optional, use it if you prefer more improved graphics with cost of your storage)
 
-AI Upscaled Half-Life 2 by JohnnyBrown - https://gamebanana.com/gamefiles/9202
-
-Juniez' Gravity Gun MMod by Shadow_RUN https://gamebanana.com/skins/175167
-
-Juniez' RPG MMod by Shadow_RUN - https://gamebanana.com/skins/173032
-
-Juniez' Crossbow MMod by Shadow_RUN - https://gamebanana.com/skins/172134
-
-Juniez' 357 MMod by Shadow_RUN - https://gamebanana.com/skins/170897
-
-Juniez' Grenade MMod by Shadow_RUN - https://gamebanana.com/skins/170051
-
-Juniez' Spas 12 MMod by Shadow_RUN - https://gamebanana.com/skins/168178
-
-Juniez' SMG1 Remake on MMod Animations by Shadow_RUN - https://gamebanana.com/skins/168165
-
-Juniez' USP Match on MMod's Animations by Shadow_RUN - https://gamebanana.com/skins/168157
-
-Juniez' AR2 MMod by Shadow_RUN - https://gamebanana.com/skins/167969
-
+AI Upscaled Half-Life 2 by JohnnyBrown - https://gamebanana.com/gamefiles/9202 (Optional, use it if you prefer more improved graphics with cost of your storage)
 
 **HUD Mods**
 
-Condensed Animated HUD by Spartan-277 https://gamebanana.com/guis/34862
+Condensed Animated HUD by Spartan-277 - https://gamebanana.com/guis/34862
+
+MMOD Crosshair mod by mbrablet - https://gamebanana.com/guis/34866
 
 
 **Scripts**
 
 MMod universal custom folder support by mbramblet - https://gamebanana.com/gamefiles/9469
-
-Aperture Reshade for Half-Life 2 by kaamalauppias - https://www.moddb.com/mods/aperture-reshade-for-half-life-2
-
-MMod Aim Down Sight 1.12 by ZippyS2 - https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/mmod-aim-down-sight-112-by-zippys2
 
 Subtitles for Combine Overwatch by Maestra_Fenix - https://gamebanana.com/gamefiles/9697
 
@@ -111,3 +90,5 @@ Mod Testing Map by mooselag - https://gamebanana.com/maps/199590
 **MMod**
 
 Half-Life 2: MMod by Gunship_Mark_II - https://www.moddb.com/mods/hl2-ep2-enhased-mod
+
+MMod Classic addon by silent - https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/mmod-classic
