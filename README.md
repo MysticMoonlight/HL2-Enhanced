@@ -160,7 +160,17 @@ Hi-Res Alyx gun by Rufus - https://gamebanana.com/skins/31500
 
 Annabelle by Banana Maximus - https://gamebanana.com/skins/169384
 
-Original Hands HD Retexture by 2clips - https://gamebanana.com/skins/140131
+HD Remake Shotgun Shells by Jerson Gaming - https://gamebanana.com/skins/158586
+
+HL2 Remake. .357 Ammo Package by Jerson Gaming - https://gamebanana.com/skins/162028
+
+HD Remake Medkit & Battery by Jerson Gaming - https://gamebanana.com/skins/159265
+
+HD Remake Pistol Ammo by Jerson Gaming - https://gamebanana.com/skins/158199
+
+HD Remake SMG Ammo by Jerson Gaming - https://gamebanana.com/skins/158806
+
+HEV Suit v2.0 by Jerson Gaming - https://gamebanana.com/skins/160253
 
 Bugbait Retexture by Yumyumshisha - https://gamebanana.com/skins/162180
 
