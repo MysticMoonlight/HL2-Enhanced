@@ -122,6 +122,8 @@ Remastered Combine APC by RetroBoy, jQueary (Redistribution) - https://gamebanan
 
 Jims Combine Soldier v3 by Jim the Cookie, L U D E X, TAI and various (Redistribution) - https://gamebanana.com/skins/172879
 
+Half-Life Alyx RNG MetroCop by TwoTime - https://gamebanana.com/skins/179661
+
 Half-Life: Alyx Combine Dropship in Half-Life 2 by Volkolak - https://gamebanana.com/skins/176927
 
 Improved Gunship V2 by StarFreak22 - https://gamebanana.com/skins/173167
