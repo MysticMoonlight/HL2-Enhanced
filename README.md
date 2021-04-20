@@ -208,9 +208,3 @@ Mod Testing Map by mooselag - https://gamebanana.com/maps/199590
 Half-Life 2: MMod by Gunship_Mark_II - https://www.moddb.com/mods/hl2-ep2-enhased-mod
 
 MMod Classic addon by silent - https://www.moddb.com/mods/hl2-ep2-enhased-mod/addons/mmod-classic
-
-##Other thing##
-This modpack will be used on my HL2 MMOD Gameplay video in the future!
-
-Due to some mod maker's personality controversy, I decided to not include some of their mods on the list. 
-I'm afraid I can't tell you who exactly they are. Thank you for understanding!
