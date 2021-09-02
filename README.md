@@ -67,3 +67,8 @@ Due to copyright concerns, you need to download the mod list below and install y
 
 ### Note ###
 Always remember to read the description of each mod before installing!
+
+
+Valve, the Valve logo, Steam, the Steam logo, Half-Life, the Half-Life logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
+
+Half-Life 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation. 
