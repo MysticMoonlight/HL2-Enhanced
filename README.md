@@ -32,7 +32,6 @@ None, will be updated later
 - [A lot of New Zombine And Edited Sounds](https://gamebanana.com/sounds/27200)
 - [Alternate Combine Footsteps](https://gamebanana.com/sounds/41226)
 - [Barney mask lines remade](https://gamebanana.com/sounds/47862)
-- [Black Mesa Anomalous Materials replacement](https://gamebanana.com/maps/208466)
 - [Black Mesa Footstep Sounds V.2](https://gamebanana.com/sounds/50080)
 - [Black Mesa + HL:A Zombie Sounds (Inspired by MMod)](https://gamebanana.com/sounds/55592)
 - [Half-Life 2: Enhanced & Alternate Soundtrack](https://gamebanana.com/wips/52044)
@@ -45,7 +44,6 @@ None, will be updated later
 - [HL:A Antlion Sound](https://gamebanana.com/sounds/47132)
 - [Improved Strider Sounds 2.0](https://gamebanana.com/sounds/34050)
 - [Improved Citizen Alarm](https://gamebanana.com/sounds/35153)
-- [Intro Test Chamber Replacement](https://gamebanana.com/maps/208488)
 - [Modern Weapons SFX](https://gamebanana.com/sounds/46897)
 - [Mr.Keyb0red's Citadel Alarm](https://gamebanana.com/sounds/36262)
 - [Mr.Keyb0red's City Battle Ambient Sounds](https://gamebanana.com/sounds/34751)
@@ -54,6 +52,7 @@ None, will be updated later
 - [New Fast Headcrab Sounds](https://gamebanana.com/sounds/33586)
 
 #### Visual Mods ####
+- [Black Mesa Anomalous Materials replacement](https://gamebanana.com/maps/208466)
 - [Combine Turret Remake](https://gamebanana.com/mods/182474)
 - [Half-Life: Alyx Combine Dropship in Half-Life 2](https://gamebanana.com/mods/183110)
 - [Half-Life 2 Combine Soldier Replacements](https://gamebanana.com/mods/183073)
@@ -62,6 +61,7 @@ None, will be updated later
 - [HD & Enhanced HL2 Faces](https://gamebanana.com/mods/315880)
 - [Hunter Chopper Remake](https://gamebanana.com/mods/183090)
 - [Improved Gunship V2](https://gamebanana.com/mods/183101)
+- [Intro Test Chamber Replacement](https://gamebanana.com/maps/208488)
 - [Manhack Remake](https://gamebanana.com/mods/182473)
 - [Metrocop Remake With Blue Lens+Variants](https://gamebanana.com/mods/183059)
 - [Strider "Perfected" AI Upscale](https://gamebanana.com/mods/182398)
