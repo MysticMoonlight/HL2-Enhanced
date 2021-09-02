@@ -18,7 +18,8 @@ Due to copyright concerns, you need to download the mod list below and install y
 None, will be updated later
 
 ### Changelog ###
-#### v1.0.1 "Alien Grunt" ####
+#### v1.1 "Alien Grunt" ####
+- Added [HL:A Physics and Impacts](https://gamebanana.com/sounds/47122)
 - Removed [Juniez Classic Weapons Pack](https://gamebanana.com/mods/310478) due to compatibility issue
 
 #### v1 "Alien Grunt" ####
@@ -39,11 +40,12 @@ None, will be updated later
 - [HL2 | Barnacle Recreated](https://gamebanana.com/sounds/34086)
 - [HL2 | Combine Sniper](https://gamebanana.com/sounds/34087)
 - [HL2 | Improved HeadcrabCanister Sounds](https://gamebanana.com/sounds/27458)
-- [HL:A Manhack Sounds](https://gamebanana.com/sounds/46817)
-- [HL:A Dog SFX](https://gamebanana.com/sounds/48452)
 - [HL:A Antlion Sound](https://gamebanana.com/sounds/47132)
-- [Improved Strider Sounds 2.0](https://gamebanana.com/sounds/34050)
+- [HL:A Dog SFX](https://gamebanana.com/sounds/48452)
+- [HL:A Manhack Sounds](https://gamebanana.com/sounds/46817)
+- [HL:A Physics and Impacts](https://gamebanana.com/sounds/47122)
 - [Improved Citizen Alarm](https://gamebanana.com/sounds/35153)
+- [Improved Strider Sounds 2.0](https://gamebanana.com/sounds/34050)
 - [Modern Weapons SFX](https://gamebanana.com/sounds/46897)
 - [Mr.Keyb0red's Citadel Alarm](https://gamebanana.com/sounds/36262)
 - [Mr.Keyb0red's City Battle Ambient Sounds](https://gamebanana.com/sounds/34751)
@@ -56,8 +58,8 @@ None, will be updated later
 - [Combine Turret Remake](https://gamebanana.com/mods/182474)
 - [Half-Life: Alyx Combine Dropship in Half-Life 2](https://gamebanana.com/mods/183110)
 - [Half-Life 2 Combine Soldier Replacements](https://gamebanana.com/mods/183073)
-- [Half-Life 2: Remade Assets DE [Source 1 Port]](https://gamebanana.com/mods/300761)
 - [Half Life 2 HD Enhancement Project](https://gamebanana.com/mods/6650)
+- [Half-Life 2: Remade Assets DE [Source 1 Port]](https://gamebanana.com/mods/300761)
 - [HD & Enhanced HL2 Faces](https://gamebanana.com/mods/315880)
 - [Hunter Chopper Remake](https://gamebanana.com/mods/183090)
 - [Improved Gunship V2](https://gamebanana.com/mods/183101)
