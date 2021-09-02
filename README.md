@@ -14,8 +14,13 @@ Due to copyright concerns, you need to download the mod list below and install y
 - Half-Life 2: Episode One
 - Half-Life 2: Episode Two
 
+### Tested with ###
+None, will be updated later
 
 ### Changelog ###
+#### v1.0.1 "Alien Grunt" ####
+- Removed [Juniez Classic Weapons Pack](https://gamebanana.com/mods/310478) due to compatibility issue
+
 #### v1 "Alien Grunt" ####
 - **Renamed modpack name to Half-Life 2 Enhanced**
 - Added [Improved Citizen Alarm](https://gamebanana.com/sounds/35153), [Black Mesa + HL:A Zombie Sounds (Inspired by MMod)](https://gamebanana.com/sounds/55592), [Black Mesa Footstep Sounds V.2](https://gamebanana.com/sounds/50080)
@@ -34,6 +39,7 @@ Due to copyright concerns, you need to download the mod list below and install y
 - [High quality out of breath](https://gamebanana.com/sounds/46242)
 - [HL2 | Barnacle Recreated](https://gamebanana.com/sounds/34086)
 - [HL2 | Combine Sniper](https://gamebanana.com/sounds/34087)
+- [HL2 | Improved HeadcrabCanister Sounds](https://gamebanana.com/sounds/27458)
 - [HL:A Manhack Sounds](https://gamebanana.com/sounds/46817)
 - [HL:A Dog SFX](https://gamebanana.com/sounds/48452)
 - [HL:A Antlion Sound](https://gamebanana.com/sounds/47132)
@@ -46,7 +52,6 @@ Due to copyright concerns, you need to download the mod list below and install y
 - [Mr.Keyb0red's UI Sounds](https://gamebanana.com/sounds/36206)
 - [New Combine Deaths & On, off sounds](https://gamebanana.com/sounds/21197)
 - [New Fast Headcrab Sounds](https://gamebanana.com/sounds/33586)
-- [HL2 | Improved HeadcrabCanister Sounds](https://gamebanana.com/sounds/27458)
 
 #### Visual Mods ####
 - [Combine Turret Remake](https://gamebanana.com/mods/182474)
@@ -57,7 +62,6 @@ Due to copyright concerns, you need to download the mod list below and install y
 - [HD & Enhanced HL2 Faces](https://gamebanana.com/mods/315880)
 - [Hunter Chopper Remake](https://gamebanana.com/mods/183090)
 - [Improved Gunship V2](https://gamebanana.com/mods/183101)
-- [Juniez Classic Weapons Pack](https://gamebanana.com/mods/310478)
 - [Manhack Remake](https://gamebanana.com/mods/182473)
 - [Metrocop Remake With Blue Lens+Variants](https://gamebanana.com/mods/183059)
 - [Strider "Perfected" AI Upscale](https://gamebanana.com/mods/182398)
@@ -67,7 +71,6 @@ Due to copyright concerns, you need to download the mod list below and install y
 
 ### Note ###
 Always remember to read the description of each mod before installing!
-
 
 Valve, the Valve logo, Steam, the Steam logo, Half-Life, the Half-Life logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
