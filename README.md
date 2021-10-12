@@ -1,35 +1,35 @@
-## Half-Life 2 Enhanced ##
-Half-Life 2 Enhanced is a modpack to improve the visual of Half-Life 2 and Half-Life 2 MMod, while keeping the original atmosphere and focusing on performance in mind.
+# Half-Life 2: Enhanced #
+Half-Life 2: Enhanced is a modpack to improve the visual of Half-Life 2 and Half-Life 2 MMod, while keeping the original atmosphere and focusing on performance in mind.
 
 Due to copyright concerns, you need to download the mod list below and install yourself, by putting the mod to custom folder.
 
-### Dependencies ###
-#### Required ####
+## Dependencies ##
+### Required ###
 - **Half-Life 2**
 
-#### Optional ####
+### Optional ###
 - Half-Life 2: MMOD
 - Half-Life 2: Update
 - Half-Life 2: Lost Coast
 - Half-Life 2: Episode One
 - Half-Life 2: Episode Two
 
-### Tested with ###
+## Tested with ##
 None, will be updated later
 
-### Changelog ###
-#### v1.1 "Alien Grunt" ####
+## Changelog ##
+### v1.1 "Alien Grunt" ###
 - Added [HL:A Physics and Impacts](https://gamebanana.com/sounds/47122)
 - Removed [Juniez Classic Weapons Pack](https://gamebanana.com/mods/310478) due to compatibility issue
 
-#### v1 "Alien Grunt" ####
+### v1 "Alien Grunt" ###
 - **Renamed modpack name to Half-Life 2 Enhanced**
 - Added [Improved Citizen Alarm](https://gamebanana.com/sounds/35153), [Black Mesa + HL:A Zombie Sounds (Inspired by MMod)](https://gamebanana.com/sounds/55592), [Black Mesa Footstep Sounds V.2](https://gamebanana.com/sounds/50080)
 - Removed the mod which has been deleted by author or moderator
 - Also removed several mods which is outdated and/or which does not fit with original HL2 atmosphere
 
-### List of Mods ###
-#### Sound Mods ####
+## List of Mods ##
+### Sound Mods ###
 - [A lot of New Zombine And Edited Sounds](https://gamebanana.com/sounds/27200)
 - [Alternate Combine Footsteps](https://gamebanana.com/sounds/41226)
 - [Barney mask lines remade](https://gamebanana.com/sounds/47862)
@@ -53,7 +53,7 @@ None, will be updated later
 - [New Combine Deaths & On, off sounds](https://gamebanana.com/sounds/21197)
 - [New Fast Headcrab Sounds](https://gamebanana.com/sounds/33586)
 
-#### Visual Mods ####
+### Visual Mods ###
 - [Black Mesa Anomalous Materials replacement](https://gamebanana.com/maps/208466)
 - [Combine Turret Remake](https://gamebanana.com/mods/182474)
 - [Half-Life: Alyx Combine Dropship in Half-Life 2](https://gamebanana.com/mods/183110)
@@ -68,12 +68,12 @@ None, will be updated later
 - [Metrocop Remake With Blue Lens+Variants](https://gamebanana.com/mods/183059)
 - [Strider "Perfected" AI Upscale](https://gamebanana.com/mods/182398)
 
-#### HUD Mods ####
+### HUD Mods ###
 - [Condensed Animated HUD](https://gamebanana.com/guis/34862)
 
-### Note ###
+## Note ##
 Always remember to read the description of each mod before installing!
 
 Valve, the Valve logo, Steam, the Steam logo, Half-Life, the Half-Life logo, Source, the Source logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries.
 
-Half-Life 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation. 
+Half-Life 2 Enhanced is not sponsored, endorsed, licensed by, or affiliated with Valve Corporation.
