@@ -1,3 +1,6 @@
+# This repository is obsolete
+We are now moving to [this repository](https://github.com/MysticMoonlight/EnhancedMod). This repo will remain archived.
+
 # Half-Life 2: Enhanced #
 Half-Life 2: Enhanced is a modpack to improve the visual of Half-Life 2 and Half-Life 2 MMod, while keeping the original atmosphere and focusing on performance in mind.
 
